@@ -1,3 +1,1 @@
-Objetivo
-Programar em C# um MICRO-ONDAS DIGITAL.
-Nivel 3.
+Programar em C# um MICRO-ONDAS DIGITAL - Nivel 3.
